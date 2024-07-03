@@ -1,2 +1,4 @@
 # Memory Allocation Failure:
- This is a C program for Error Handling
+Memory Allocation Failure: Write a program that allocates memory dynamically for an array. Implement error handling to manage memory allocation failures.
+
+
